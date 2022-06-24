@@ -3,3 +3,4 @@ matplotlib==2.2.3
 numpy==1.21.6
 protobuf~=3.19.0
 pexpect==4.8.0
+click == 8.0.4

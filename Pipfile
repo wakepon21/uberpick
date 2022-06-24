@@ -9,6 +9,7 @@ numpy = "==1.21.6"
 pexpect = "==4.8.0"
 streamlit = "==0.60.0"
 protobuf = "==3.19.0"
+click = "== 8.0.4"
 
 [dev-packages]
 
