@@ -1,4 +1,5 @@
 streamlit==0.60.0
 matplotlib==2.2.3 
-numpy==1.15.1
+numpy==1.21.6
 protobuf~=3.19.0
+pexpect==4.8.0
